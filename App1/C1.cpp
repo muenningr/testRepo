@@ -2,8 +2,8 @@
 //
 
 #include <iostream>
-//1 Änderung
-
+// 1. Änderung von clone2
+// 1. Änderung von clone3
 int main()
 {
     std::cout << "Hello World!\n";
