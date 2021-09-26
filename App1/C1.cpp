@@ -4,6 +4,7 @@
 #include <iostream>
 // 1. Änderung von clone2
 // 1. Änderung von clone3
+// 1. Änderung von clone1
 int main()
 {
     std::cout << "Hello World!\n";
