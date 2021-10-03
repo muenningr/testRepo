@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-// merge test
+// der wahre merge test von clone1
 int main()
 {
     std::cout << "Hello World!\n";
